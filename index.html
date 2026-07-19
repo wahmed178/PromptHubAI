@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="PromptHub AI is a modern, mobile-first prompt library PWA for creators and builders." />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="./assets/icons/icon-192.svg" />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <title>PromptHub AI</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark">P</div>
+          <div>
+            <h1>PromptHub AI</h1>
+            <p>Curated prompts for modern AI workflows</p>
+          </div>
+        </div>
+        <button id="installBtn" class="ghost-btn hidden" type="button">Install</button>
+      </header>
+
+      <main id="main-content" class="content"></main>
+
+      <nav class="bottom-nav" aria-label="Bottom navigation">
+        <button class="nav-item active" data-view="home" type="button">
+          <span>⌂</span>
+          <small>Home</small>
+        </button>
+        <button class="nav-item" data-view="library" type="button">
+          <span>☰</span>
+          <small>Library</small>
+        </button>
+        <button class="nav-item" data-view="favorites" type="button">
+          <span>★</span>
+          <small>Favorites</small>
+        </button>
+        <button class="nav-item" data-view="settings" type="button">
+          <span>⚙</span>
+          <small>Settings</small>
+        </button>
+      </nav>
+    </div>
+
+    <div id="toast" class="toast" aria-live="polite"></div>
+
+    <script src="./assets/js/app.js"></script>
+  </body>
+</html>
