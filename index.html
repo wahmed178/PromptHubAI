@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="PromptHub AI is a modern, mobile-first prompt library PWA for creators and builders." />
+    <meta name="description" content="PromptHub AI is a polished PWA for browsing, saving, copy/pasting, and sharing prompts." />
     <meta name="theme-color" content="#0f172a" />
     <link rel="manifest" href="./manifest.json" />
     <link rel="apple-touch-icon" href="./assets/icons/icon-192.svg" />
@@ -11,42 +11,35 @@
     <title>PromptHub AI</title>
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
     <div class="app-shell">
       <header class="topbar">
         <div class="brand">
           <div class="brand-mark">P</div>
           <div>
             <h1>PromptHub AI</h1>
-            <p>Curated prompts for modern AI workflows</p>
+            <p>Production-grade prompt intelligence</p>
           </div>
         </div>
-        <button id="installBtn" class="ghost-btn hidden" type="button">Install</button>
+        <div class="topbar-actions">
+          <button id="themeToggle" class="icon-btn compact" type="button" aria-label="Toggle color theme" aria-pressed="false">🌙</button>
+          <button id="installBtn" class="ghost-btn hidden" type="button">Install</button>
+        </div>
       </header>
 
-      <main id="main-content" class="content"></main>
+      <main id="main-content" class="content" tabindex="-1"></main>
 
       <nav class="bottom-nav" aria-label="Bottom navigation">
-        <button class="nav-item active" data-view="home" type="button">
-          <span>⌂</span>
-          <small>Home</small>
-        </button>
-        <button class="nav-item" data-view="library" type="button">
-          <span>☰</span>
-          <small>Library</small>
-        </button>
-        <button class="nav-item" data-view="favorites" type="button">
-          <span>★</span>
-          <small>Favorites</small>
-        </button>
-        <button class="nav-item" data-view="settings" type="button">
-          <span>⚙</span>
-          <small>Settings</small>
-        </button>
+        <button class="nav-item active" data-view="home" type="button"><span>🏠</span><small>Home</small></button>
+        <button class="nav-item" data-view="library" type="button"><span>📚</span><small>Library</small></button>
+        <button class="nav-item" data-view="learn" type="button"><span>🎓</span><small>Learn</small></button>
+        <button class="nav-item" data-view="tools" type="button"><span>🛠️</span><small>Tools</small></button>
+        <button class="nav-item" data-view="favorites" type="button"><span>⭐</span><small>Favorites</small></button>
+        <button class="nav-item" data-view="settings" type="button"><span>⚙️</span><small>Settings</small></button>
       </nav>
     </div>
 
-    <div id="toast" class="toast" aria-live="polite"></div>
-
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
     <script src="./assets/js/app.js"></script>
   </body>
 </html>

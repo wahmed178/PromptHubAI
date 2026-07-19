@@ -1,7 +1,7 @@
 {
   "name": "PromptHub AI",
   "short_name": "PromptHub",
-  "description": "A modern prompt library progressive web app for builders and creators.",
+  "description": "A polished prompt library PWA for creators, builders, and AI operators.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

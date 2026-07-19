@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "name": "Writing Assistant 1",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 2,
+    "name": "Coding Assistant 2",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 3,
+    "name": "Research Assistant 3",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 4,
+    "name": "Design Assistant 4",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 5,
+    "name": "Analytics Assistant 5",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 6,
+    "name": "Automation Assistant 6",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 7,
+    "name": "Productivity Assistant 7",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 8,
+    "name": "Marketing Assistant 8",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 9,
+    "name": "Writing Assistant 9",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 10,
+    "name": "Coding Assistant 10",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 11,
+    "name": "Research Assistant 11",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 12,
+    "name": "Design Assistant 12",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 13,
+    "name": "Analytics Assistant 13",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 14,
+    "name": "Automation Assistant 14",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 15,
+    "name": "Productivity Assistant 15",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 16,
+    "name": "Marketing Assistant 16",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 17,
+    "name": "Writing Assistant 17",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 18,
+    "name": "Coding Assistant 18",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 19,
+    "name": "Research Assistant 19",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 20,
+    "name": "Design Assistant 20",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 21,
+    "name": "Analytics Assistant 21",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 22,
+    "name": "Automation Assistant 22",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 23,
+    "name": "Productivity Assistant 23",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 24,
+    "name": "Marketing Assistant 24",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 25,
+    "name": "Writing Assistant 25",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 26,
+    "name": "Coding Assistant 26",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 27,
+    "name": "Research Assistant 27",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 28,
+    "name": "Design Assistant 28",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 29,
+    "name": "Analytics Assistant 29",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 30,
+    "name": "Automation Assistant 30",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 31,
+    "name": "Productivity Assistant 31",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 32,
+    "name": "Marketing Assistant 32",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 33,
+    "name": "Writing Assistant 33",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 34,
+    "name": "Coding Assistant 34",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 35,
+    "name": "Research Assistant 35",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 36,
+    "name": "Design Assistant 36",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 37,
+    "name": "Analytics Assistant 37",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 38,
+    "name": "Automation Assistant 38",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 39,
+    "name": "Productivity Assistant 39",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 40,
+    "name": "Marketing Assistant 40",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 41,
+    "name": "Writing Assistant 41",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 42,
+    "name": "Coding Assistant 42",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 43,
+    "name": "Research Assistant 43",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 44,
+    "name": "Design Assistant 44",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 45,
+    "name": "Analytics Assistant 45",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 46,
+    "name": "Automation Assistant 46",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 47,
+    "name": "Productivity Assistant 47",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 48,
+    "name": "Marketing Assistant 48",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 49,
+    "name": "Writing Assistant 49",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 50,
+    "name": "Coding Assistant 50",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 51,
+    "name": "Research Assistant 51",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 52,
+    "name": "Design Assistant 52",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 53,
+    "name": "Analytics Assistant 53",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 54,
+    "name": "Automation Assistant 54",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 55,
+    "name": "Productivity Assistant 55",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 56,
+    "name": "Marketing Assistant 56",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 57,
+    "name": "Writing Assistant 57",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 58,
+    "name": "Coding Assistant 58",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 59,
+    "name": "Research Assistant 59",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 60,
+    "name": "Design Assistant 60",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 61,
+    "name": "Analytics Assistant 61",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 62,
+    "name": "Automation Assistant 62",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 63,
+    "name": "Productivity Assistant 63",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 64,
+    "name": "Marketing Assistant 64",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 65,
+    "name": "Writing Assistant 65",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 66,
+    "name": "Coding Assistant 66",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 67,
+    "name": "Research Assistant 67",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 68,
+    "name": "Design Assistant 68",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 69,
+    "name": "Analytics Assistant 69",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 70,
+    "name": "Automation Assistant 70",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 71,
+    "name": "Productivity Assistant 71",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 72,
+    "name": "Marketing Assistant 72",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 73,
+    "name": "Writing Assistant 73",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 74,
+    "name": "Coding Assistant 74",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 75,
+    "name": "Research Assistant 75",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 76,
+    "name": "Design Assistant 76",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 77,
+    "name": "Analytics Assistant 77",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 78,
+    "name": "Automation Assistant 78",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 79,
+    "name": "Productivity Assistant 79",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 80,
+    "name": "Marketing Assistant 80",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 81,
+    "name": "Writing Assistant 81",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 82,
+    "name": "Coding Assistant 82",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 83,
+    "name": "Research Assistant 83",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 84,
+    "name": "Design Assistant 84",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 85,
+    "name": "Analytics Assistant 85",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 86,
+    "name": "Automation Assistant 86",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 87,
+    "name": "Productivity Assistant 87",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 88,
+    "name": "Marketing Assistant 88",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 89,
+    "name": "Writing Assistant 89",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 90,
+    "name": "Coding Assistant 90",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 91,
+    "name": "Research Assistant 91",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 92,
+    "name": "Design Assistant 92",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 93,
+    "name": "Analytics Assistant 93",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 94,
+    "name": "Automation Assistant 94",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 95,
+    "name": "Productivity Assistant 95",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 96,
+    "name": "Marketing Assistant 96",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 97,
+    "name": "Writing Assistant 97",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 98,
+    "name": "Coding Assistant 98",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 99,
+    "name": "Research Assistant 99",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 100,
+    "name": "Design Assistant 100",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 101,
+    "name": "Analytics Assistant 101",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 102,
+    "name": "Automation Assistant 102",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 103,
+    "name": "Productivity Assistant 103",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 104,
+    "name": "Marketing Assistant 104",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 105,
+    "name": "Writing Assistant 105",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 106,
+    "name": "Coding Assistant 106",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 107,
+    "name": "Research Assistant 107",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 108,
+    "name": "Design Assistant 108",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 109,
+    "name": "Analytics Assistant 109",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 110,
+    "name": "Automation Assistant 110",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 111,
+    "name": "Productivity Assistant 111",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 112,
+    "name": "Marketing Assistant 112",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 113,
+    "name": "Writing Assistant 113",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 114,
+    "name": "Coding Assistant 114",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 115,
+    "name": "Research Assistant 115",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 116,
+    "name": "Design Assistant 116",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 117,
+    "name": "Analytics Assistant 117",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 118,
+    "name": "Automation Assistant 118",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 119,
+    "name": "Productivity Assistant 119",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 120,
+    "name": "Marketing Assistant 120",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 121,
+    "name": "Writing Assistant 121",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 122,
+    "name": "Coding Assistant 122",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 123,
+    "name": "Research Assistant 123",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 124,
+    "name": "Design Assistant 124",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 125,
+    "name": "Analytics Assistant 125",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 126,
+    "name": "Automation Assistant 126",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 127,
+    "name": "Productivity Assistant 127",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 128,
+    "name": "Marketing Assistant 128",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 129,
+    "name": "Writing Assistant 129",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 130,
+    "name": "Coding Assistant 130",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 131,
+    "name": "Research Assistant 131",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 132,
+    "name": "Design Assistant 132",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 133,
+    "name": "Analytics Assistant 133",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 134,
+    "name": "Automation Assistant 134",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 135,
+    "name": "Productivity Assistant 135",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 136,
+    "name": "Marketing Assistant 136",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 137,
+    "name": "Writing Assistant 137",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 138,
+    "name": "Coding Assistant 138",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 139,
+    "name": "Research Assistant 139",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 140,
+    "name": "Design Assistant 140",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 141,
+    "name": "Analytics Assistant 141",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 142,
+    "name": "Automation Assistant 142",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 143,
+    "name": "Productivity Assistant 143",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 144,
+    "name": "Marketing Assistant 144",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 145,
+    "name": "Writing Assistant 145",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 146,
+    "name": "Coding Assistant 146",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 147,
+    "name": "Research Assistant 147",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 148,
+    "name": "Design Assistant 148",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 149,
+    "name": "Analytics Assistant 149",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 150,
+    "name": "Automation Assistant 150",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 151,
+    "name": "Productivity Assistant 151",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 152,
+    "name": "Marketing Assistant 152",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 153,
+    "name": "Writing Assistant 153",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 154,
+    "name": "Coding Assistant 154",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 155,
+    "name": "Research Assistant 155",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 156,
+    "name": "Design Assistant 156",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 157,
+    "name": "Analytics Assistant 157",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 158,
+    "name": "Automation Assistant 158",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 159,
+    "name": "Productivity Assistant 159",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 160,
+    "name": "Marketing Assistant 160",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 161,
+    "name": "Writing Assistant 161",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 162,
+    "name": "Coding Assistant 162",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 163,
+    "name": "Research Assistant 163",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 164,
+    "name": "Design Assistant 164",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 165,
+    "name": "Analytics Assistant 165",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 166,
+    "name": "Automation Assistant 166",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 167,
+    "name": "Productivity Assistant 167",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 168,
+    "name": "Marketing Assistant 168",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 169,
+    "name": "Writing Assistant 169",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 170,
+    "name": "Coding Assistant 170",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 171,
+    "name": "Research Assistant 171",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 172,
+    "name": "Design Assistant 172",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 173,
+    "name": "Analytics Assistant 173",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 174,
+    "name": "Automation Assistant 174",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 175,
+    "name": "Productivity Assistant 175",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 176,
+    "name": "Marketing Assistant 176",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 177,
+    "name": "Writing Assistant 177",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 178,
+    "name": "Coding Assistant 178",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 179,
+    "name": "Research Assistant 179",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 180,
+    "name": "Design Assistant 180",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 181,
+    "name": "Analytics Assistant 181",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 182,
+    "name": "Automation Assistant 182",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 183,
+    "name": "Productivity Assistant 183",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 184,
+    "name": "Marketing Assistant 184",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 185,
+    "name": "Writing Assistant 185",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 186,
+    "name": "Coding Assistant 186",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 187,
+    "name": "Research Assistant 187",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 188,
+    "name": "Design Assistant 188",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 189,
+    "name": "Analytics Assistant 189",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 190,
+    "name": "Automation Assistant 190",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 191,
+    "name": "Productivity Assistant 191",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 192,
+    "name": "Marketing Assistant 192",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 193,
+    "name": "Writing Assistant 193",
+    "category": "Writing",
+    "description": "An AI-powered writing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 194,
+    "name": "Coding Assistant 194",
+    "category": "Coding",
+    "description": "An AI-powered coding companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 195,
+    "name": "Research Assistant 195",
+    "category": "Research",
+    "description": "An AI-powered research companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 196,
+    "name": "Design Assistant 196",
+    "category": "Design",
+    "description": "An AI-powered design companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 197,
+    "name": "Analytics Assistant 197",
+    "category": "Analytics",
+    "description": "An AI-powered analytics companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 198,
+    "name": "Automation Assistant 198",
+    "category": "Automation",
+    "description": "An AI-powered automation companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Individuals"
+  },
+  {
+    "id": 199,
+    "name": "Productivity Assistant 199",
+    "category": "Productivity",
+    "description": "An AI-powered productivity companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 200,
+    "name": "Marketing Assistant 200",
+    "category": "Marketing",
+    "description": "An AI-powered marketing companion designed to improve speed, quality, and consistency for modern teams.",
+    "pricing": "Free",
+    "bestFor": "Individuals"
+  }
+]
