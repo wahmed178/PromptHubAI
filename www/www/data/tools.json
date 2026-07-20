@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "name": "OpenAI GPT-4.1",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 2,
+    "name": "Claude Sonnet 4",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 3,
+    "name": "Gemini 2.5 Pro",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 4,
+    "name": "Perplexity Enterprise",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 5,
+    "name": "Notion AI",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 6,
+    "name": "Zapier AI",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 7,
+    "name": "Figma AI",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 8,
+    "name": "Midjourney",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 9,
+    "name": "GitHub Copilot",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 10,
+    "name": "Cursor",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 11,
+    "name": "Linear AI",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 12,
+    "name": "Canva Magic Studio",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 13,
+    "name": "Descript",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 14,
+    "name": "Synthesia",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 15,
+    "name": "OpenAI GPT-4.1 15",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 16,
+    "name": "Claude Sonnet 4 16",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 17,
+    "name": "Gemini 2.5 Pro 17",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 18,
+    "name": "Perplexity Enterprise 18",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 19,
+    "name": "Notion AI 19",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 20,
+    "name": "Zapier AI 20",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 21,
+    "name": "Figma AI 21",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 22,
+    "name": "Midjourney 22",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 23,
+    "name": "GitHub Copilot 23",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 24,
+    "name": "Cursor 24",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 25,
+    "name": "Linear AI 25",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 26,
+    "name": "Canva Magic Studio 26",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 27,
+    "name": "Descript 27",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 28,
+    "name": "Synthesia 28",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 29,
+    "name": "OpenAI GPT-4.1 29",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 30,
+    "name": "Claude Sonnet 4 30",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 31,
+    "name": "Gemini 2.5 Pro 31",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 32,
+    "name": "Perplexity Enterprise 32",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 33,
+    "name": "Notion AI 33",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 34,
+    "name": "Zapier AI 34",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 35,
+    "name": "Figma AI 35",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 36,
+    "name": "Midjourney 36",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 37,
+    "name": "GitHub Copilot 37",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 38,
+    "name": "Cursor 38",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 39,
+    "name": "Linear AI 39",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 40,
+    "name": "Canva Magic Studio 40",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 41,
+    "name": "Descript 41",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 42,
+    "name": "Synthesia 42",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 43,
+    "name": "OpenAI GPT-4.1 43",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 44,
+    "name": "Claude Sonnet 4 44",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 45,
+    "name": "Gemini 2.5 Pro 45",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 46,
+    "name": "Perplexity Enterprise 46",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 47,
+    "name": "Notion AI 47",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 48,
+    "name": "Zapier AI 48",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 49,
+    "name": "Figma AI 49",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 50,
+    "name": "Midjourney 50",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 51,
+    "name": "GitHub Copilot 51",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 52,
+    "name": "Cursor 52",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 53,
+    "name": "Linear AI 53",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 54,
+    "name": "Canva Magic Studio 54",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 55,
+    "name": "Descript 55",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 56,
+    "name": "Synthesia 56",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 57,
+    "name": "OpenAI GPT-4.1 57",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 58,
+    "name": "Claude Sonnet 4 58",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 59,
+    "name": "Gemini 2.5 Pro 59",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 60,
+    "name": "Perplexity Enterprise 60",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 61,
+    "name": "Notion AI 61",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 62,
+    "name": "Zapier AI 62",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 63,
+    "name": "Figma AI 63",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 64,
+    "name": "Midjourney 64",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 65,
+    "name": "GitHub Copilot 65",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 66,
+    "name": "Cursor 66",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 67,
+    "name": "Linear AI 67",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 68,
+    "name": "Canva Magic Studio 68",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 69,
+    "name": "Descript 69",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 70,
+    "name": "Synthesia 70",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 71,
+    "name": "OpenAI GPT-4.1 71",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 72,
+    "name": "Claude Sonnet 4 72",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 73,
+    "name": "Gemini 2.5 Pro 73",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 74,
+    "name": "Perplexity Enterprise 74",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 75,
+    "name": "Notion AI 75",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 76,
+    "name": "Zapier AI 76",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 77,
+    "name": "Figma AI 77",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 78,
+    "name": "Midjourney 78",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 79,
+    "name": "GitHub Copilot 79",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 80,
+    "name": "Cursor 80",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 81,
+    "name": "Linear AI 81",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 82,
+    "name": "Canva Magic Studio 82",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 83,
+    "name": "Descript 83",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 84,
+    "name": "Synthesia 84",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 85,
+    "name": "OpenAI GPT-4.1 85",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 86,
+    "name": "Claude Sonnet 4 86",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 87,
+    "name": "Gemini 2.5 Pro 87",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 88,
+    "name": "Perplexity Enterprise 88",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 89,
+    "name": "Notion AI 89",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 90,
+    "name": "Zapier AI 90",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 91,
+    "name": "Figma AI 91",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 92,
+    "name": "Midjourney 92",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 93,
+    "name": "GitHub Copilot 93",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 94,
+    "name": "Cursor 94",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 95,
+    "name": "Linear AI 95",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 96,
+    "name": "Canva Magic Studio 96",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 97,
+    "name": "Descript 97",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 98,
+    "name": "Synthesia 98",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 99,
+    "name": "OpenAI GPT-4.1 99",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 100,
+    "name": "Claude Sonnet 4 100",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 101,
+    "name": "Gemini 2.5 Pro 101",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 102,
+    "name": "Perplexity Enterprise 102",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 103,
+    "name": "Notion AI 103",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 104,
+    "name": "Zapier AI 104",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 105,
+    "name": "Figma AI 105",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 106,
+    "name": "Midjourney 106",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 107,
+    "name": "GitHub Copilot 107",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 108,
+    "name": "Cursor 108",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 109,
+    "name": "Linear AI 109",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 110,
+    "name": "Canva Magic Studio 110",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 111,
+    "name": "Descript 111",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 112,
+    "name": "Synthesia 112",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 113,
+    "name": "OpenAI GPT-4.1 113",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 114,
+    "name": "Claude Sonnet 4 114",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 115,
+    "name": "Gemini 2.5 Pro 115",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 116,
+    "name": "Perplexity Enterprise 116",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 117,
+    "name": "Notion AI 117",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 118,
+    "name": "Zapier AI 118",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 119,
+    "name": "Figma AI 119",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 120,
+    "name": "Midjourney 120",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 121,
+    "name": "GitHub Copilot 121",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 122,
+    "name": "Cursor 122",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 123,
+    "name": "Linear AI 123",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 124,
+    "name": "Canva Magic Studio 124",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 125,
+    "name": "Descript 125",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 126,
+    "name": "Synthesia 126",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 127,
+    "name": "OpenAI GPT-4.1 127",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 128,
+    "name": "Claude Sonnet 4 128",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 129,
+    "name": "Gemini 2.5 Pro 129",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 130,
+    "name": "Perplexity Enterprise 130",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 131,
+    "name": "Notion AI 131",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 132,
+    "name": "Zapier AI 132",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 133,
+    "name": "Figma AI 133",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 134,
+    "name": "Midjourney 134",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 135,
+    "name": "GitHub Copilot 135",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 136,
+    "name": "Cursor 136",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 137,
+    "name": "Linear AI 137",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 138,
+    "name": "Canva Magic Studio 138",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 139,
+    "name": "Descript 139",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 140,
+    "name": "Synthesia 140",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 141,
+    "name": "OpenAI GPT-4.1 141",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 142,
+    "name": "Claude Sonnet 4 142",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 143,
+    "name": "Gemini 2.5 Pro 143",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 144,
+    "name": "Perplexity Enterprise 144",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 145,
+    "name": "Notion AI 145",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 146,
+    "name": "Zapier AI 146",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 147,
+    "name": "Figma AI 147",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 148,
+    "name": "Midjourney 148",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 149,
+    "name": "GitHub Copilot 149",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 150,
+    "name": "Cursor 150",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 151,
+    "name": "Linear AI 151",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 152,
+    "name": "Canva Magic Studio 152",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 153,
+    "name": "Descript 153",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 154,
+    "name": "Synthesia 154",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 155,
+    "name": "OpenAI GPT-4.1 155",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 156,
+    "name": "Claude Sonnet 4 156",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 157,
+    "name": "Gemini 2.5 Pro 157",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 158,
+    "name": "Perplexity Enterprise 158",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 159,
+    "name": "Notion AI 159",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 160,
+    "name": "Zapier AI 160",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 161,
+    "name": "Figma AI 161",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 162,
+    "name": "Midjourney 162",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 163,
+    "name": "GitHub Copilot 163",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 164,
+    "name": "Cursor 164",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 165,
+    "name": "Linear AI 165",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 166,
+    "name": "Canva Magic Studio 166",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 167,
+    "name": "Descript 167",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 168,
+    "name": "Synthesia 168",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 169,
+    "name": "OpenAI GPT-4.1 169",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 170,
+    "name": "Claude Sonnet 4 170",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 171,
+    "name": "Gemini 2.5 Pro 171",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 172,
+    "name": "Perplexity Enterprise 172",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 173,
+    "name": "Notion AI 173",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 174,
+    "name": "Zapier AI 174",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 175,
+    "name": "Figma AI 175",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 176,
+    "name": "Midjourney 176",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 177,
+    "name": "GitHub Copilot 177",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 178,
+    "name": "Cursor 178",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 179,
+    "name": "Linear AI 179",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 180,
+    "name": "Canva Magic Studio 180",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 181,
+    "name": "Descript 181",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 182,
+    "name": "Synthesia 182",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 183,
+    "name": "OpenAI GPT-4.1 183",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 184,
+    "name": "Claude Sonnet 4 184",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 185,
+    "name": "Gemini 2.5 Pro 185",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 186,
+    "name": "Perplexity Enterprise 186",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 187,
+    "name": "Notion AI 187",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 188,
+    "name": "Zapier AI 188",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 189,
+    "name": "Figma AI 189",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 190,
+    "name": "Midjourney 190",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 191,
+    "name": "GitHub Copilot 191",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 192,
+    "name": "Cursor 192",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 193,
+    "name": "Linear AI 193",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 194,
+    "name": "Canva Magic Studio 194",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 195,
+    "name": "Descript 195",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 196,
+    "name": "Synthesia 196",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 197,
+    "name": "OpenAI GPT-4.1 197",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 198,
+    "name": "Claude Sonnet 4 198",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 199,
+    "name": "Gemini 2.5 Pro 199",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 200,
+    "name": "Perplexity Enterprise 200",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 201,
+    "name": "Notion AI 201",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 202,
+    "name": "Zapier AI 202",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 203,
+    "name": "Figma AI 203",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 204,
+    "name": "Midjourney 204",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 205,
+    "name": "GitHub Copilot 205",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 206,
+    "name": "Cursor 206",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 207,
+    "name": "Linear AI 207",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 208,
+    "name": "Canva Magic Studio 208",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 209,
+    "name": "Descript 209",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 210,
+    "name": "Synthesia 210",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 211,
+    "name": "OpenAI GPT-4.1 211",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 212,
+    "name": "Claude Sonnet 4 212",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 213,
+    "name": "Gemini 2.5 Pro 213",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 214,
+    "name": "Perplexity Enterprise 214",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 215,
+    "name": "Notion AI 215",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 216,
+    "name": "Zapier AI 216",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 217,
+    "name": "Figma AI 217",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 218,
+    "name": "Midjourney 218",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 219,
+    "name": "GitHub Copilot 219",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 220,
+    "name": "Cursor 220",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 221,
+    "name": "Linear AI 221",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 222,
+    "name": "Canva Magic Studio 222",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 223,
+    "name": "Descript 223",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 224,
+    "name": "Synthesia 224",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 225,
+    "name": "OpenAI GPT-4.1 225",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 226,
+    "name": "Claude Sonnet 4 226",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 227,
+    "name": "Gemini 2.5 Pro 227",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 228,
+    "name": "Perplexity Enterprise 228",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 229,
+    "name": "Notion AI 229",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 230,
+    "name": "Zapier AI 230",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 231,
+    "name": "Figma AI 231",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 232,
+    "name": "Midjourney 232",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 233,
+    "name": "GitHub Copilot 233",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 234,
+    "name": "Cursor 234",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 235,
+    "name": "Linear AI 235",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 236,
+    "name": "Canva Magic Studio 236",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  },
+  {
+    "id": 237,
+    "name": "Descript 237",
+    "category": "Content",
+    "description": "AI-powered editing and transcript-based video production.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 238,
+    "name": "Synthesia 238",
+    "category": "Content",
+    "description": "AI video generation with presenter avatars.",
+    "pricing": "Paid",
+    "bestFor": "L&D teams"
+  },
+  {
+    "id": 239,
+    "name": "OpenAI GPT-4.1 239",
+    "category": "Writing",
+    "description": "A multimodal reasoning assistant for drafting, summarizing, and ideation.",
+    "pricing": "Paid",
+    "bestFor": "Product teams"
+  },
+  {
+    "id": 240,
+    "name": "Claude Sonnet 4 240",
+    "category": "Research",
+    "description": "A long-context assistant for analysis, policy drafting, and nuanced writing.",
+    "pricing": "Paid",
+    "bestFor": "Researchers"
+  },
+  {
+    "id": 241,
+    "name": "Gemini 2.5 Pro 241",
+    "category": "Research",
+    "description": "A multimodal model for search-assisted research and document synthesis.",
+    "pricing": "Paid",
+    "bestFor": "Teams"
+  },
+  {
+    "id": 242,
+    "name": "Perplexity Enterprise 242",
+    "category": "Research",
+    "description": "A search-augmented research assistant for real-time fact finding.",
+    "pricing": "Paid",
+    "bestFor": "Analysts"
+  },
+  {
+    "id": 243,
+    "name": "Notion AI 243",
+    "category": "Productivity",
+    "description": "A workspace AI for note drafting, knowledge management, and summaries.",
+    "pricing": "Paid",
+    "bestFor": "Operations"
+  },
+  {
+    "id": 244,
+    "name": "Zapier AI 244",
+    "category": "Automation",
+    "description": "Automation for connecting tools and generating workflow actions.",
+    "pricing": "Paid",
+    "bestFor": "Ops teams"
+  },
+  {
+    "id": 245,
+    "name": "Figma AI 245",
+    "category": "Design",
+    "description": "Design assistance for generation, layout suggestions, and asset creation.",
+    "pricing": "Paid",
+    "bestFor": "Designers"
+  },
+  {
+    "id": 246,
+    "name": "Midjourney 246",
+    "category": "Design",
+    "description": "Image generation for visual concepts and brand exploration.",
+    "pricing": "Paid",
+    "bestFor": "Creators"
+  },
+  {
+    "id": 247,
+    "name": "GitHub Copilot 247",
+    "category": "Engineering",
+    "description": "AI coding assistant for autocompletion and code explanations.",
+    "pricing": "Paid",
+    "bestFor": "Developers"
+  },
+  {
+    "id": 248,
+    "name": "Cursor 248",
+    "category": "Engineering",
+    "description": "An AI-native code editor optimized for large codebases.",
+    "pricing": "Paid",
+    "bestFor": "Engineers"
+  },
+  {
+    "id": 249,
+    "name": "Linear AI 249",
+    "category": "Operations",
+    "description": "Planning and issue triage assistance for product and engineering teams.",
+    "pricing": "Paid",
+    "bestFor": "PMs"
+  },
+  {
+    "id": 250,
+    "name": "Canva Magic Studio 250",
+    "category": "Marketing",
+    "description": "Design and content generation for presentation and campaign assets.",
+    "pricing": "Paid",
+    "bestFor": "Marketing teams"
+  }
+]

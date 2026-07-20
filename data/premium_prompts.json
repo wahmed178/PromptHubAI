@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1001,
+    "name": "Resume Builder",
+    "description": "Generate a professional, ATS-friendly resume tailored to a job description with accomplishments-focused bullets and measurable outcomes.",
+    "tags": ["career","resume","job","hr"],
+    "bestModels": ["ChatGPT-4o","Claude Sonnet 4","Gemini Pro"],
+    "exampleInput": "Role: Senior Product Manager\nExperience: 6 years at B2B SaaS\nAchievements: Led migration project that reduced costs by 18%\nGoal: Apply to Strategy and Operations roles",
+    "exampleOutput": "<structured resume with summary, experience, skills, and 5-7 achievement bullets per role formatted for ATS>",
+    "tips": ["Provide a job posting to tailor the resume","Include metrics and concrete outcomes","Ask the model to vary tone: concise, narrative, or achievement-first"]
+  },
+  {
+    "id": 1002,
+    "name": "Presentation Generator",
+    "description": "Create a complete slide deck outline, speaker notes, and design guidance from a short brief or an article.",
+    "tags": ["slides","presentation","deck","talk"],
+    "bestModels": ["ChatGPT-4o","Claude Sonnet 4"],
+    "exampleInput": "Topic: Q3 Product Launch Plan\nAudience: Executive leadership\nLength: 12 slides",
+    "exampleOutput": "<slide titles, bullets, speaker notes, recommended visuals per slide>",
+    "tips": ["Provide the objective and desired call-to-action","Request an executive summary slide first","Ask for visual suggestions (charts, diagrams, screenshots)"]
+  },
+  {
+    "id": 1003,
+    "name": "Infographic Creator",
+    "description": "Design an infographic brief including a headline, sections, data callouts, color palette, and concise copy suitable for designers or image models.",
+    "tags": ["design","infographic","marketing"],
+    "bestModels": ["ChatGPT-4o","Gemini"],
+    "exampleInput": "Topic: The ROI of Content Marketing\nKey metrics: CAC, LTV, conversion rate",
+    "exampleOutput": "<headline, three-panel layout suggestion, data callouts, short copy for each panel, suggested iconography>",
+    "tips": ["Provide up to 5 key data points","Ask for recommended color palettes and font pairings","Export as short prompts for image models"]
+  },
+  {
+    "id": 1004,
+    "name": "HandwrittenNotesImage",
+    "description": "Generate a premium handwritten study notes prompt that instructs image models to render realistic notebook styling, diagrams, highlights, and callouts.",
+    "tags": ["study","notes","image-generation"],
+    "bestModels": ["Midjourney","Stable Diffusion","Leonardo AI"],
+    "exampleInput": "Topic: Photosynthesis process – explain steps and include labelled diagram",
+    "exampleOutput": "<image prompt for Midjourney or Stable Diffusion producing a photorealistic notebook page with handwriting, boxed key terms, and simple diagram>",
+    "tips": ["Mention paper texture, pen type, and ink color","Ask for labeled diagram and callouts with arrows","Specify aspect ratio for notes (e.g., 4:3) for legibility"]
+  },
+  {
+    "id": 1005,
+    "name": "Excel Formula Expert",
+    "description": "Create advanced Excel formulas, combine with helper columns, and produce sample data and step-by-step formula explanation.",
+    "tags": ["excel","spreadsheets","formulas"],
+    "bestModels": ["ChatGPT-4o","Claude Sonnet 4"],
+    "exampleInput": "Goal: Calculate rolling 12-month retention rate by cohort from event logs",
+    "exampleOutput": "<array formulas, pivot-friendly layout, helper columns, sample results>",
+    "tips": ["Provide sample rows or a CSV snippet","Ask for both formula and plain-English explanation","Request alternative approaches for performance"]
+  }
+]

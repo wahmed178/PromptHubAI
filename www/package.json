@@ -4,8 +4,6 @@
   "description": "PromptHub AI is a mobile-first Progressive Web App for browsing, searching, favoriting, copying, and sharing AI prompts. It is built with plain HTML, CSS, and vanilla JavaScript for simple hosting on GitHub Pages and other static platforms.",
   "main": "sw.js",
   "scripts": {
-    "start": "python3 -m http.server 8000",
-    "dev": "python3 -m http.server 8000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
