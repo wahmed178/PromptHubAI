@@ -22,9 +22,15 @@ PromptHub AI is a mobile-first Progressive Web App for browsing, searching, favo
 - pages/
 
 ## Run locally
-1. Open the repository folder in a browser, or serve it with a static server:
-   - python3 -m http.server 8000
-2. Visit http://127.0.0.1:8000/
+1. Serve the site from the repository root. Examples:
+
+```bash
+npm start
+# or
+python3 -m http.server 8000
+```
+
+2. Open http://127.0.0.1:8000/ in your browser.
 
 ## Deploy to GitHub Pages
 1. Push this repository to GitHub.

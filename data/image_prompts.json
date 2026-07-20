@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2001,
+    "title": "Midjourney: Cinematic Product Poster",
+    "platform":"Midjourney",
+    "tags":["midjourney","poster","product"],
+    "description":"High-contrast cinematic poster showcasing a product in an editorial setting, dramatic lighting, lens flare, shallow depth of field.",
+    "prompt":"Ultra-detailed cinematic product poster, dramatic rim lighting, shallow depth of field, 35mm lens, film grain, high contrast, bold typography area --ar 3:4 --v 6"
+  },
+  {
+    "id": 2002,
+    "title": "Stable Diffusion: Handwritten Study Notes",
+    "platform":"Stable Diffusion",
+    "tags":["study","handwritten","notes"],
+    "description":"Realistic notebook page with clear handwriting, labeled diagrams, highlighted callouts, natural ink bleeding, lined paper texture.",
+    "prompt":"Realistic notebook page, handwritten notes, labeled diagram of photosynthesis, ink pen, warm paper texture, soft shadow, high detail --ar 4:3"
+  },
+  {
+    "id": 2003,
+    "title": "Leonardo: Concept Art Scene",
+    "platform":"Leonardo",
+    "tags":["concept","environment","art"],
+    "description":"Detailed concept art for environment design with strong composition and palette notes for iterative design.",
+    "prompt":"Concept environment art, wide composition, color script notes, atmospheric perspective, painterly brushwork, high detail --ar 16:9"
+  }
+]

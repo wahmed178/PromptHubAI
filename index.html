@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="PromptHub AI is a polished PWA for browsing, saving, copy/pasting, and sharing prompts." />
+    <meta name="description" content="PromptHub AI is a premium prompt library, learning platform, and AI tool directory for professionals." />
     <meta name="theme-color" content="#0f172a" />
     <link rel="manifest" href="./manifest.json" />
     <link rel="apple-touch-icon" href="./assets/icons/icon-192.svg" />
@@ -14,28 +14,53 @@
     <a class="skip-link" href="#main-content">Skip to content</a>
     <div class="app-shell">
       <header class="topbar">
-        <div class="brand">
+          <div class="brand">
+          <button id="drawerToggle" class="icon-btn compact" aria-label="Open navigation">
+            <img src="./assets/icons/home.svg" alt="menu" class="icon-sm">
+          </button>
           <div class="brand-mark">P</div>
           <div>
             <h1>PromptHub AI</h1>
-            <p>Production-grade prompt intelligence</p>
+            <p>Production prompts, lessons, tools, and daily AI guidance</p>
           </div>
         </div>
+        <div class="toolbar">
+          <input id="globalSearch" type="search" placeholder="Search prompts, tools, images, books..." aria-label="Global search" />
+        </div>
         <div class="topbar-actions">
-          <button id="themeToggle" class="icon-btn compact" type="button" aria-label="Toggle color theme" aria-pressed="false">🌙</button>
+          <button id="themeToggle" class="icon-btn compact" type="button" aria-label="Toggle theme">🌙</button>
           <button id="installBtn" class="ghost-btn hidden" type="button">Install</button>
         </div>
       </header>
 
+      <aside id="sideDrawer" class="side-drawer" aria-hidden="true">
+        <nav class="drawer-nav">
+          <ul>
+            <li><button class="drawer-link" data-view="home"><img src="./assets/icons/home.svg" class="nav-icon"> Home</button></li>
+            <li><button class="drawer-link" data-view="library"><img src="./assets/icons/library.svg" class="nav-icon"> Prompt Library</button></li>
+            <li><button class="drawer-link" data-view="premium"><img src="./assets/icons/premium.svg" class="nav-icon"> Premium Prompts</button></li>
+            <li><button class="drawer-link" data-view="trending"><img src="./assets/icons/trending.svg" class="nav-icon"> Trending</button></li>
+            <li><button class="drawer-link" data-view="image-prompts"><img src="./assets/icons/image.svg" class="nav-icon"> Image Prompts</button></li>
+            <li><button class="drawer-link" data-view="tools"><img src="./assets/icons/tools.svg" class="nav-icon"> AI Tools</button></li>
+            <li><button class="drawer-link" data-view="books"><img src="./assets/icons/books.svg" class="nav-icon"> Books</button></li>
+            <li><button class="drawer-link" data-view="favorites"><img src="./assets/icons/favorites.svg" class="nav-icon"> Bookmarks</button></li>
+            <li><button class="drawer-link" data-view="settings"><img src="./assets/icons/settings.svg" class="nav-icon"> Settings</button></li>
+            <li><button class="drawer-link" data-view="about">About</button></li>
+            <li><button class="drawer-link" data-view="feedback">Send Feedback</button></li>
+          </ul>
+        </nav>
+      </aside>
+      <div id="drawerOverlay" class="drawer-overlay" hidden></div>
+
       <main id="main-content" class="content" tabindex="-1"></main>
 
       <nav class="bottom-nav" aria-label="Bottom navigation">
-        <button class="nav-item active" data-view="home" type="button"><span>🏠</span><small>Home</small></button>
-        <button class="nav-item" data-view="library" type="button"><span>📚</span><small>Library</small></button>
-        <button class="nav-item" data-view="learn" type="button"><span>🎓</span><small>Learn</small></button>
-        <button class="nav-item" data-view="tools" type="button"><span>🛠️</span><small>Tools</small></button>
-        <button class="nav-item" data-view="favorites" type="button"><span>⭐</span><small>Favorites</small></button>
-        <button class="nav-item" data-view="settings" type="button"><span>⚙️</span><small>Settings</small></button>
+        <button class="nav-item active" data-view="home" type="button"><img src="./assets/icons/home.svg" class="nav-icon"><small>Home</small></button>
+        <button class="nav-item" data-view="library" type="button"><img src="./assets/icons/library.svg" class="nav-icon"><small>Library</small></button>
+        <button class="nav-item" data-view="lessons" type="button"><img src="./assets/icons/books.svg" class="nav-icon"><small>Lessons</small></button>
+        <button class="nav-item" data-view="tools" type="button"><img src="./assets/icons/tools.svg" class="nav-icon"><small>Tools</small></button>
+        <button class="nav-item" data-view="favorites" type="button"><img src="./assets/icons/favorites.svg" class="nav-icon"><small>Favorites</small></button>
+        <button class="nav-item" data-view="settings" type="button"><img src="./assets/icons/settings.svg" class="nav-icon"><small>Settings</small></button>
       </nav>
     </div>
 

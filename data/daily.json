@@ -1,0 +1,9 @@
+{
+  "dailyPrompt": {
+    "title": "Daily strategy prompt",
+    "prompt": "Create a concise plan for the next 48 hours using evidence, trade-offs, and one measurable outcome."
+  },
+  "dailyTip": {
+    "tip": "Use AI to draft first, then refine with domain knowledge, customer insight, and examples from your real work."
+  }
+}

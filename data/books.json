@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3001,
+    "title": "Artificial Intelligence: A Guide for Thinking Humans",
+    "author": "Melanie Mitchell",
+    "summary": "A grounded, accessible overview of AI's capabilities, limitations, and social implications written for a broad audience.",
+    "keyLearnings": ["AI excels at narrow tasks","Understanding training data is essential","Human oversight remains critical"],
+    "difficulty": "Beginner",
+    "whoShouldRead": "General readers, product managers, designers"
+  },
+  {
+    "id": 3002,
+    "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+    "author": "Ajay Agrawal, Joshua Gans, Avi Goldfarb",
+    "summary": "Explains AI as a prediction technology and explores the business implications for decision-making and strategy.",
+    "keyLearnings": ["Treat AI as prediction infrastructure","Focus on complements to prediction","Consider costs of errors"],
+    "difficulty": "Intermediate",
+    "whoShouldRead": "Founders, product leaders, strategists"
+  },
+  {
+    "id": 3003,
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "summary": "A practical guide to building scalable, reliable data systems — useful when engineering production AI systems.",
+    "keyLearnings": ["Data modelling matters","Trade-offs between consistency and availability","Design for operational simplicity"],
+    "difficulty": "Advanced",
+    "whoShouldRead": "Engineers, data architects"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Executive Prompt Pack",
+    "description": "High-signal prompts for leadership communication and decision-making.",
+    "focus": "Leadership"
+  },
+  {
+    "id": 2,
+    "name": "Product Delivery Sprint",
+    "description": "Prompts for requirements, prioritization, and launch readiness.",
+    "focus": "Product"
+  },
+  {
+    "id": 3,
+    "name": "Content Operations Hub",
+    "description": "Prompts for editorial planning, repurposing, and team enablement.",
+    "focus": "Content"
+  }
+]

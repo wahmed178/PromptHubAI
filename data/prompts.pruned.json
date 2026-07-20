@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "title": "Product Strategy Prompt 1",
+    "category": "Product Strategy",
+    "subcategory": "Roadmaps",
+    "content": "You are a senior expert in product strategy and roadmaps. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product strategy execution.",
+    "tags": [
+      "product-strategy",
+      "roadmaps",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Executive Positioning brief 2",
+    "category": "Product Marketing",
+    "subcategory": "Positioning",
+    "content": "You are a senior expert in product marketing and positioning. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product marketing execution.",
+    "tags": [
+      "product-marketing",
+      "positioning",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Refactoring playbook for software engineering 3",
+    "category": "Software Engineering",
+    "subcategory": "Refactoring",
+    "content": "You are a senior expert in software engineering and refactoring. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to software engineering execution.",
+    "tags": [
+      "software-engineering",
+      "refactoring",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Operations Prompt 4",
+    "category": "Operations",
+    "subcategory": "Automation",
+    "content": "You are a senior expert in operations and automation. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to operations execution.",
+    "tags": [
+      "operations",
+      "automation",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Executive Synthesis brief 5",
+    "category": "Research",
+    "subcategory": "Synthesis",
+    "content": "You are a senior expert in research and synthesis. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to research execution.",
+    "tags": [
+      "research",
+      "synthesis",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Design Critique playbook for design 6",
+    "category": "Design",
+    "subcategory": "Design Critique",
+    "content": "You are a senior expert in design and design critique. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to design execution.",
+    "tags": [
+      "design",
+      "design-critique",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Leadership Prompt 7",
+    "category": "Leadership",
+    "subcategory": "Communication",
+    "content": "You are a senior expert in leadership and communication. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to leadership execution.",
+    "tags": [
+      "leadership",
+      "communication",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Executive Mentoring brief 8",
+    "category": "Education",
+    "subcategory": "Mentoring",
+    "content": "You are a senior expert in education and mentoring. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to education execution.",
+    "tags": [
+      "education",
+      "mentoring",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Storytelling playbook for content 9",
+    "category": "Content",
+    "subcategory": "Storytelling",
+    "content": "You are a senior expert in content and storytelling. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to content execution.",
+    "tags": [
+      "content",
+      "storytelling",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Growth Prompt 10",
+    "category": "Growth",
+    "subcategory": "Experimentation",
+    "content": "You are a senior expert in growth and experimentation. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to growth execution.",
+    "tags": [
+      "growth",
+      "experimentation",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Executive Prioritization brief 11",
+    "category": "Product Strategy",
+    "subcategory": "Prioritization",
+    "content": "You are a senior expert in product strategy and prioritization. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product strategy execution.",
+    "tags": [
+      "product-strategy",
+      "prioritization",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Messaging playbook for product marketing 12",
+    "category": "Product Marketing",
+    "subcategory": "Messaging",
+    "content": "You are a senior expert in product marketing and messaging. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product marketing execution.",
+    "tags": [
+      "product-marketing",
+      "messaging",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Software Engineering Prompt 13",
+    "category": "Software Engineering",
+    "subcategory": "Architecture",
+    "content": "You are a senior expert in software engineering and architecture. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to software engineering execution.",
+    "tags": [
+      "software-engineering",
+      "architecture",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Executive Workflows brief 14",
+    "category": "Operations",
+    "subcategory": "Workflows",
+    "content": "You are a senior expert in operations and workflows. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to operations execution.",
+    "tags": [
+      "operations",
+      "workflows",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Insight Mining playbook for research 15",
+    "category": "Research",
+    "subcategory": "Insight Mining",
+    "content": "You are a senior expert in research and insight mining. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to research execution.",
+    "tags": [
+      "research",
+      "insight-mining",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Design Prompt 16",
+    "category": "Design",
+    "subcategory": "UX Systems",
+    "content": "You are a senior expert in design and ux systems. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to design execution.",
+    "tags": [
+      "design",
+      "ux-systems",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Executive Coaching brief 17",
+    "category": "Leadership",
+    "subcategory": "Coaching",
+    "content": "You are a senior expert in leadership and coaching. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to leadership execution.",
+    "tags": [
+      "leadership",
+      "coaching",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Assessment playbook for education 18",
+    "category": "Education",
+    "subcategory": "Assessment",
+    "content": "You are a senior expert in education and assessment. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to education execution.",
+    "tags": [
+      "education",
+      "assessment",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Content Prompt 19",
+    "category": "Content",
+    "subcategory": "Editorial Planning",
+    "content": "You are a senior expert in content and editorial planning. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to content execution.",
+    "tags": [
+      "content",
+      "editorial-planning",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Executive Retention brief 20",
+    "category": "Growth",
+    "subcategory": "Retention",
+    "content": "You are a senior expert in growth and retention. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to growth execution.",
+    "tags": [
+      "growth",
+      "retention",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Decision-Making playbook for product strategy 21",
+    "category": "Product Strategy",
+    "subcategory": "Decision-Making",
+    "content": "You are a senior expert in product strategy and decision-making. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product strategy execution.",
+    "tags": [
+      "product-strategy",
+      "decision-making",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Product Marketing Prompt 22",
+    "category": "Product Marketing",
+    "subcategory": "Campaigns",
+    "content": "You are a senior expert in product marketing and campaigns. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to product marketing execution.",
+    "tags": [
+      "product-marketing",
+      "campaigns",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Executive Debugging brief 23",
+    "category": "Software Engineering",
+    "subcategory": "Debugging",
+    "content": "You are a senior expert in software engineering and debugging. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to software engineering execution.",
+    "tags": [
+      "software-engineering",
+      "debugging",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Governance playbook for operations 24",
+    "category": "Operations",
+    "subcategory": "Governance",
+    "content": "You are a senior expert in operations and governance. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to operations execution.",
+    "tags": [
+      "operations",
+      "governance",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Research Prompt 25",
+    "category": "Research",
+    "subcategory": "Analysis",
+    "content": "You are a senior expert in research and analysis. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to research execution.",
+    "tags": [
+      "research",
+      "analysis",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Executive Research brief 26",
+    "category": "Design",
+    "subcategory": "Research",
+    "content": "You are a senior expert in design and research. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to design execution.",
+    "tags": [
+      "design",
+      "research",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Executive Updates playbook for leadership 27",
+    "category": "Leadership",
+    "subcategory": "Executive Updates",
+    "content": "You are a senior expert in leadership and executive updates. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to leadership execution.",
+    "tags": [
+      "leadership",
+      "executive-updates",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Education Prompt 28",
+    "category": "Education",
+    "subcategory": "Curriculum",
+    "content": "You are a senior expert in education and curriculum. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to education execution.",
+    "tags": [
+      "education",
+      "curriculum",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Executive Repurposing brief 29",
+    "category": "Content",
+    "subcategory": "Repurposing",
+    "content": "You are a senior expert in content and repurposing. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to content execution.",
+    "tags": [
+      "content",
+      "repurposing",
+      "production",
+      "professional"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Sales Enablement playbook for growth 30",
+    "category": "Growth",
+    "subcategory": "Sales Enablement",
+    "content": "You are a senior expert in growth and sales enablement. Help me produce a practical, high-quality deliverable for a professional team working under real deadline pressure. Use evidence, structure, assumptions, and a strong next-step recommendation tailored to growth execution.",
+    "tags": [
+      "growth",
+      "sales-enablement",
+      "production",
+      "professional"
+    ]
+  }
+]

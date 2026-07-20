@@ -1,0 +1,30 @@
+{
+  "name": "prompthubai",
+  "version": "1.0.0",
+  "description": "PromptHub AI is a mobile-first Progressive Web App for browsing, searching, favoriting, copying, and sharing AI prompts. It is built with plain HTML, CSS, and vanilla JavaScript for simple hosting on GitHub Pages and other static platforms.",
+  "main": "sw.js",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahmed178/PromptHubAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wahmed178/PromptHubAI/issues"
+  },
+  "homepage": "https://github.com/wahmed178/PromptHubAI#readme",
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.2",
+    "@capacitor/core": "^8.4.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.2"
+  }
+}
